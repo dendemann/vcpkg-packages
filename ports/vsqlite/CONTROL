@@ -1,0 +1,5 @@
+Source: vsqlite
+Version: 0.3.13
+Homepage: http://vsqlite.virtuosic-bytes.com
+Description: The C++ SQLite wrapper library
+Build-Depends: boost, sqlite3
